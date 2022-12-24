@@ -21,7 +21,7 @@ Draw mode: Vertical - 1 bit per pixel
 Genrate Code and Copy Output
 
 Download configuartion
-Use Libraies
+Use Libraries
 -- TinyWireM.h
 -- TinyOzOLED.h
 
